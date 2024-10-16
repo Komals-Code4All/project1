@@ -1,0 +1,25 @@
+body {
+	background-color: bisque;
+}
+
+h1 {
+	color: blue;
+}
+
+nav {
+	position: fixed;
+	top: 10px;
+	right: 10px;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	background-color: blueviolet;
+	color: azure;
+}
+
+li:hover {
+	color: blueviolet;
+	background-color: azure;
+}
